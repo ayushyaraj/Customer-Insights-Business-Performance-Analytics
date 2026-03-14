@@ -1,6 +1,6 @@
 # 📊 Customer Behavior Data Analytics Project
 
-![Project Workflow](project-workflow.png)
+![Project Workflow](project-workflow.png.png)
 
 
 An end-to-end **Data Analytics Portfolio Project** demonstrating how raw business data can be transformed into actionable insights using **Python, SQL, and Power BI**.
@@ -72,20 +72,21 @@ The dashboard highlights:
 
 ## 📁 Repository Structure
 
+```
+Customer-Behavior-Analytics/
 │
 ├── data/
 ├── notebooks/
-│ └── Customer_Shopping_Behavior_Analysis.ipynb
+│   └── Customer_Shopping_Behavior_Analysis.ipynb
 ├── sql/
-│ └── customer_behavior_queries.sql
+│   └── customer_behavior_queries.sql
 ├── dashboard/
-│ └── customer_behavior_dashboard.pbix
+│   └── customer_behavior_dashboard.pbix
 ├── report/
 ├── presentation/
+└── README.md
+```
 
-
-
----
 
 ## 📌 Why This Project Matters
 
